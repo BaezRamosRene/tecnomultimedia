@@ -1,0 +1,22 @@
+entrar
+siguiente
+ir a la habitacion
+escapar
+reiniciar
+salir
+abajo de
+ropero
+tomar
+no tomar
+disparar
+esperar
+ir sigilosamente
+correr
+salir
+asesinarla
+jugar
+ir con mama
+esperar
+esconderse
+fin
+la cama
