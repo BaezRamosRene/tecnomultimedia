@@ -1,9 +1,17 @@
-// PAISAJE: CASA
-// SUBCLASE: AMBIENTE
-// ATRIBUTOS: TAMAÑO,UBICACION,COLOR,CANTIDAD DE VENTANAS,MUEBLES (TODO ESTO DEFINIRA
-// SI ES UNA HABITACION,BAÑO,COCINA,ETC.
+//casaaaa
+//
+//constructor
+// clase ambiente ()
+// clase muebles
+// clase puertas
+//
+//metodo actualizar: ??
 //
 //
-//
+//metodo dibujar 
+//dibujar 
+//dibujar ambientes
+//dibujar muebles 
+//dibujar puertas
 //
 //
